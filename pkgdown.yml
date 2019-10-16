@@ -1,0 +1,9 @@
+pandoc: 2.2.1
+pkgdown: 1.4.1
+pkgdown_sha: ~
+articles:
+  rmangal: rmangal.html
+urls:
+  reference: https://docs.ropensci.org/rmangal/reference
+  article: https://docs.ropensci.org/rmangal/articles
+

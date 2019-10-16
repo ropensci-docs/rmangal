@@ -1,0 +1,10 @@
+{
+  "commit": {
+    "commit": "2d8872bc7e72d186a13f2c583356c176a66b6cc5",
+    "author": "Kevin Cazelles <kcazelle@uoguelph.ca>",
+    "time": "2019-10-16 16:29:10",
+    "message": ":bug: fix in print method for mgNetwork - close #94\n"
+  },
+  "remote": "https://github.com/ropensci/rmangal",
+  "pkg": "rmangal"
+}
