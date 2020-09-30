@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "28c88357f9f39aa3d0641ea3a48f5b9863e587ea",
+    "author": "svissault <svissault@omnimed.com>",
+    "time": "2020-09-30 12:11:37",
+    "files": 1,
+    "merge": false,
+    "message": "Update email package maintainer\n"
+  },
+  "remote": "https://github.com/ropensci/rmangal",
+  "pkg": "rmangal"
+}
