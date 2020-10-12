@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "22bad461f1b9f4b1b39dd34ca1e02970457edb8f",
+    "author": "svissault <svissault@omnimed.com>",
+    "time": "2020-10-12 16:24:21",
+    "files": 1,
+    "merge": false,
+    "message": "Typo\n"
+  },
+  "remote": "https://github.com/ropensci/rmangal",
+  "pkg": "rmangal"
+}
