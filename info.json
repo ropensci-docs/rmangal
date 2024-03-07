@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "515b8b3cc7d4dc5d16ca9338ec4ab5bb07acf5ac",
+    "author": "Steve Vissault <s.vissault@yahoo.fr>",
+    "time": "2024-01-07 15:38:15",
+    "files": 15,
+    "merge": true,
+    "message": "Merge pull request #114 from ropensci/makeSugPkgCond\n\nRemove USAboundaries and Taxize from Suggests"
+  },
+  "repo": "https://github.com/ropensci/rmangal",
+  "pkg": "rmangal"
+}
