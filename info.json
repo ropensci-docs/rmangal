@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "9c566bad9992c02dfcb32bc2cfaaf665f86e7a5f",
+    "author": "Kevin Cazelles <kevin.cazelles@insileco.io>",
+    "time": "2026-01-22T14:39:14Z",
+    "files": 4,
+    "merge": false,
+    "message": ":bookmark: v2.2.2 [CRAN]\n"
+  },
+  "repo": "https://github.com/ropensci/rmangal",
+  "pkg": "rmangal",
+  "time": "2026-08-30T07:17:21Z"
+}
