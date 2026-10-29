@@ -1,0 +1,4 @@
+# License
+
+    YEAR: 2019
+    COPYRIGHT HOLDER: Steve Vissault; Kevin Cazelles; Gabriel Bergeron; Benjamin Mercier; Clément Violet; Dominique Gravel; Timothée Poisot
